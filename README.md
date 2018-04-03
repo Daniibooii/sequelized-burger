@@ -1,6 +1,7 @@
 # sequelized-burger
 
 # Project Description
+__project on hold for now__
 This project simulates a restaurant app that allows its users to create a burger.<br>
 It utilizes MySQL, Node, Handlebars, a number of Node dependencies such as Sequelize, as well as CSS, JS, etc.<br>
 
